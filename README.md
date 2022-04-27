@@ -3,7 +3,7 @@ A Distributed Denial of Service (DDoS) script which is basically a script that o
 
 #NOTE: Test it in your environment/Network only.
 
-1- nstall pyfiglet module by typing the following command:
+1- install pyfiglet module by typing the following command:
 sudo pip3 install pyfiglet
 
 2- Open the file "DDoS.py" in a text editor
